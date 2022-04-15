@@ -1,0 +1,30 @@
+*{margin: 0;
+    padding: 0;
+
+}
+header {
+    background-color: 
+    #00FDA6;
+    color: white;
+    padding: 20px;
+    grid-area: header;
+    }
+    nav {
+    background-color: #9aafec;
+    grid-area: nav;
+    }
+    main {
+   height: 100vh;
+    background-color: #0057FD;
+    color: white;
+    grid-area: main;
+    }
+    aside {
+    background-color: #0057FD;
+    grid-area: aside;
+    }
+    footer {
+    background-color: #9aafec;
+    color: white;
+    grid-area: footer;
+    }
